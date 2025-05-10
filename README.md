@@ -1,7 +1,7 @@
 ## Hi, I'm Caio Amorim! 👋
 
 <p align="center">
-  <img src="./github-header-image.png" alt="Caio Amorim - Frontend Developer" style="max-width: 100%; border-radius: 10px;" />
+  <img src="github-header-image.png" alt="Caio Amorim - Frontend Developer" style="max-width: 100%; border-radius: 10px;" />
 </p>
 
 Sou estudante de Ciência da Computação na Dom Helder e apaixonado por desenvolvimento web!  
