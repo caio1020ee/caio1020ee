@@ -8,7 +8,7 @@ Sou estudante de Ciência da Computação na Dom Helder e apaixonado por desenvo
 Atualmente focado em **React**, **Next.js** e tecnologias do ecossistema JavaScript.  
 Tenho experiência com **TypeScript**, **HTML**, **CSS**, **Tailwind** e estou sempre aprendendo algo novo.
 
-### 🚀 Tecnologias que domino
+### 🚀 Tecnologias que uso
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
