@@ -1,5 +1,5 @@
 ## Hi, I'm Caio Amorim! 
 
-![Header](./github-header.png)
+![Header](./github-header-image.png)
 
 
