@@ -4,23 +4,67 @@
   <img src="./github-header-image.png" alt="Caio Amorim - Frontend Developer" style="max-width: 100%; border-radius: 10px;" />
 </p>
 
-Sou estudante de Ciência da Computação na Dom Helder e apaixonado por desenvolvimento web!  
-Atualmente focado em **React**, **Next.js** e tecnologias do ecossistema JavaScript.  
-Tenho experiência com **TypeScript**, **HTML**, **CSS**, **Tailwind** e estou sempre aprendendo algo novo.
 
-### 🚀 Tecnologias que domino
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+🎯 Profissional de Cibersegurança especializado em **Hacking Ético**, **Segurança Ofensiva** e **Análise de Vulnerabilidades**.
 
-### 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+👨‍💻 Atuo com foco em:
+- Pentest de aplicações web, redes e Wi-Fi
+- Reconhecimento, enumeração e exploração
+- Técnicas de bypass, footprinting e fingerprinting
+- Ataques práticos baseados em OWASP Top 10
 
 ---
 
-⭐️ Obrigado por visitar meu perfil!
+### 🧠 Certificações
+
+- ✅ **CompTIA Security+ (SY0-601)**  
+- ✅ **Certified in Cybersecurity (CC) – ISC²**  
+- 🎓 Estudante de Ciência da Computação na Dom Helder
+
+---
+
+### 🛠️ Ferramentas & Técnicas
+
+**🔍 Reconhecimento & Enumeração**
+- `Google Hacking (dorks)`, `WhatWeb`, `Nmap`, `Gobuster`, `EyeWitness`
+
+**🛡️ Web Hacking**
+- `SQL Injection`, `XSS`, `LFI`, `RFI`, `Command Injection`
+- `Bypass de autenticação`, `Privilege escalation`, `WAF bypass`
+
+**🎯 Wireless Attacks**
+- `Aircrack-ng`, `Airodump-ng`, `Reaver`, `WiFi cracking`, `Fake APs`
+
+**🔑 Quebra de senhas & Cracking**
+- `Hydra`, `John the Ripper`, `Hashcat`, `Wordlists customizadas`
+
+**🧠 Fingerprinting & Footprinting**
+- Identificação de serviços, SOs, tecnologias, subdomínios e fingerprint de aplicações
+
+**🧰 Outras ferramentas**
+- `Burp Suite`, `Metasploit`, `SQLmap`, `Wireshark`, `Netcat`, `Tcpdump`, `Snort`
+
+---
+
+### 📂 Repositórios em destaque
+
+🧰 **[EyeWitness Custom](https://github.com/caio1020ee)**  
+Modificações na ferramenta EyeWitness para melhorar automação de screenshots em pentests.
+
+🛠️ **[Scripts de Pentest](https://github.com/caio1020ee)**  
+Automação com Bash e Python para reconhecimento, brute force e enumeração.
+
+📁 **[Writeups & Labs](https://github.com/caio1020ee)**  
+Análises técnicas e soluções de desafios do Hack The Box, TryHackMe e VulnHub.
+
+---
+
+### 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-Caio%20Amorim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/caio-lucas-amoorim)](https://linkedin.com/in/caio-lucas-amoorim)  
+📫 Email: caio.lucas.amorim@outlook.com
+
+---
+
+⭐ Obrigado por visitar meu perfil!  
+Atualmente busco oportunidades como **Pentester Júnior**, **Analista de Segurança Ofensiva** ou **Red Teamer em formação**.
