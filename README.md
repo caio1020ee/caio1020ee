@@ -1,7 +1,7 @@
 ## Hi, I'm Caio Amorim! 👋
 
 <p align="center">
-  <img src="./arquivo_0000000026f8623097171746df4d2175 (3).png" alt="Caio Amorim - Frontend Developer" style="max-width: 100%; border-radius: 10px;" />
+  <img src="perfil.jpeg" alt="Caio Amorim - Frontend Developer" style="max-width: 100%; border-radius: 10px;" />
 </p>
 
 
