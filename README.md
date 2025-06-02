@@ -62,7 +62,7 @@ Análises técnicas e soluções de desafios do Hack The Box, TryHackMe e VulnHu
 ### 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-Caio%20Amorim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/caio-lucas-amoorim)](https://linkedin.com/in/caio-lucas-amoorim)  
-📫 Email: caio.lucas.amorim@outlook.com
+📫 Email: caiolucasamorim@gmail.com
 
 ---
 
