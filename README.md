@@ -70,4 +70,7 @@ Análises profundas de ambientes HackTheBox, TryHackMe e VulnHub.
 ### 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-Caio%20Amorim-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://linkedin.com/in/caio-lucas-amoorim)](https://linkedin.com/in/caio-lucas-amoorim)
+
+
+
 📫 Email: [caiolucasamorim@gmail.com](mailto:caiolucasamorim@gmail.com)
