@@ -1,7 +1,7 @@
 ## Hi, I'm Caio Amorim! 👋
 
 <p align="center">
-  <img src="perfil.jpeg" alt="Caio Amorim - DevOps Engineer" style="max-width: 100%; border-radius: 10px;" />
+  <img src="perfil.png" alt="Caio Amorim - DevOps Engineer" style="max-width: 100%; border-radius: 10px;" />
 </p>
 
 🎯 **DevOps Engineer** com forte background em **Cybersecurity Ofensiva**, automação de infraestrutura e engenharia de ambientes Linux distribuídos.
